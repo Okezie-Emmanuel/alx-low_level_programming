@@ -1,6 +1,3 @@
-/**
- * main-check the code
- *
- * Return: always 0
- */
+#ifndef SIZE 1024
 #define SIZE 1024
+#endif
